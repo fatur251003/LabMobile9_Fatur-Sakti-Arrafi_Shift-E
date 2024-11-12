@@ -26,4 +26,6 @@ Shift Baru: E<br>
 
 ![alt text](https://github.com/fatur251003/LabMobile9_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-11-10%20154625.png)<br>
 
-<h4>Keterangan:</h4> <p>Pada Halaman ini, menampilkan Data Mahasiswa yang telah kita masukkan dan terdapat tombol untuk Edit dan juga Hapus Data</p><br>
+<h4>Keterangan:</h4> <p>Pada Halaman ini, menampilkan Data Mahasiswa yang telah kita masukkan dan terdapat tombol untuk Edit dan juga Hapus Data, Apabila ingin mengedit Data, klik Tombol "Edit", sedangkan jika ingin menghapus data, klik Tombol "Hapus"</p><br>
+
+
