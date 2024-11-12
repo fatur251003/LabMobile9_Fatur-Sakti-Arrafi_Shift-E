@@ -22,6 +22,6 @@ Shift Baru: E<br>
 
 <h4>Keterangan: Halaman ini menampilkan form yang terdiri dari Nama Mahasiswa dan Jurusan Mahasiswa, pada halaman ini kita dapat memasukkan nama beserta jurusan kita untuk menambahkan kedalam data, kemudian klik Button Biru untuk mengirimkan</h4><br>
 
-<h4>#Tampilan</h4> <p></p>ketika sudah memasukkan Data Mahasiswa</p><br>
+<h4>#Tampilan ketika sudah memasukkan Data Mahasiswa</h4><br>
 
 ![alt text](https://github.com/fatur251003/LabMobile9_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-11-10%20154625.png)<br>
