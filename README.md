@@ -9,3 +9,7 @@ Shift Baru: E<br>
 <h4>Tampilan Awal:</h4><br>
 
 ![alt text](https://github.com/fatur251003/LabMobile9_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-11-07%20091622.png)<br>
+
+<h4>Tampilan setelah ditambahkan Button untuk menambahkan Data Mahasiswa</h4><br>
+
+![alt text](https://github.com/fatur251003/LabMobile9_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-11-10%20154701.png)<br>
