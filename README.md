@@ -14,7 +14,7 @@ Shift Baru: E<br>
 
 ![alt text](https://github.com/fatur251003/LabMobile9_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-11-10%20154701.png)<br>
 
-<h4>Keterangan : Tampilan diatas menampilkan Halaman dengan sebuah Button berwarna Biru untuk memasukkan Data Mahasiswa</h4><br>
+<h4>Keterangan:</h4><p>Tampilan diatas menampilkan Halaman dengan sebuah Button berwarna Biru untuk memasukkan Data Mahasiswa</p><br>
 
 <h3>2. Tampilan Halaman Tambah Mahasiswa</h3><br>
 
